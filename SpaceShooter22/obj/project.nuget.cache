@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QgUrg1arAV7cII0xnwBarPwU/gJeI0u7CUmXRxMhet9HMXqt/rmzXLveK5oFw5R7thrN3qmL3DGFVqyOtsHuQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\timon\\source\\repos\\SpaceShooter22\\SpaceShooter22\\SpaceShooter22.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\timon\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\timon\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+}
