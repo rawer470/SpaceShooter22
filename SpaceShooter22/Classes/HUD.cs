@@ -19,7 +19,7 @@ namespace SpaceShooter22.Classes
 
         public HUD()
         {
-            labelScore = new Label("Good luck Alexy", new Vector2(0, 500), Color.Red);
+            labelScore = new Label("", new Vector2(0, 500), Color.Red);
         }
         
 
